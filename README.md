@@ -1,6 +1,3 @@
-### Olá! Eu sou o João Comini 👋
-
-
 ![Joao Comini's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoCominii&show_icons=true&theme=dark)   
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCominii&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
